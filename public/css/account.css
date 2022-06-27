@@ -1,0 +1,29 @@
+main{
+    background-color: #f8f8ff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+background-color: #b2dfee;
+display: flex;
+justify-content: center;
+align-items: center ;
+}
+h3{
+display: flex;
+justify-content: space-between;
+width: 100%;
+}
+p{
+    width: 450px;
+}
+h3 a {
+    font-style: italic;
+}
+
+h1{
+    color:red;
+}
